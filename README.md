@@ -23,7 +23,7 @@ RFID Pass is a program developed using the PyQt5 library that allows users to au
 The computer program provides a convenient interface for configuring and using the functionality of RFID Pass. It is built using the PyQt5 library, which allows for the creation of cross-platform desktop applications in Python. The program communicates with the Arduino board via a serial port to receive RFID card/tag data.
 
 <p align="center">
-        <img src="https://github.com/WWFyb3NsYXYg/Desktop/assets/87089735/a7277a72-f93f-4ed2-b0ac-e372af7cf1e6">
+        <img src="https://github.com/WWFyb3NsYXYg/rfidpass/assets/87089735/b511c929-4350-45d3-990d-a48d02fa06dc">
 </p>
 
 The main features of the computer program include:
