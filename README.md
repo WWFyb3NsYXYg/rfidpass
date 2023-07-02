@@ -1,6 +1,6 @@
 <h3 align="right"> <a href="README-ua.md"> <img src="https://user-images.githubusercontent.com/87089735/213570989-5be18f9b-fb96-48ae-bb10-ed0b02ac971b.png" height="20px"> Українська </a></h3>
 <p align="center">
-        <img src="https://github.com/WWFyb3NsYXYg/Desktop/assets/87089735/925082e8-5a9a-453e-9685-ff1044d42f0e" height="100px">
+        <img src="https://github.com/WWFyb3NsYXYg/rfidpass/blob/main/PythonScript/icon.png" height="100px">
     </a>
     <h1 align="center">RFID Pass</h1>
 </p>
@@ -41,7 +41,7 @@ The main functions of the Arduino firmware include:
 ### Connection
 Here is the connection diagram for the RFID Pass project:
 
-![Sheme](https://github.com/WWFyb3NsYXYg/Desktop/assets/87089735/26cfd8aa-39e7-467d-aa9c-f6bf81f6e393)
+![Sheme](https://github.com/WWFyb3NsYXYg/rfidpass/blob/main/Schemes/scheme.png)
 
 The RFID module (MFRC522) is connected to the Arduino board using wires. It is important to ensure proper power supply for the module. In your case, instead of using the usual 3.3V power supply for the module, **you need to connect the module to a 5V power supply as the 7-Byte tags** (e.g., "Gamanets" transportation card or ETicket) you want to use require more power.
 
